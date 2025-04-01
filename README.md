@@ -54,4 +54,4 @@ Criar uma versão com armazenamento local para ranking de jogadores.
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e melhorá-lo!
 
-Feito com ❤️ por Adriano Lúcio.
+Feito com ❤️ por [AABL07](https://github.com/AABL07).
