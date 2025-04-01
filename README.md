@@ -32,7 +32,7 @@ Ao acertar, o jogo exibe uma mensagem de sucesso e permite reiniciar.
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/jogo-do-numero-secreto.git
+git clone "https://github.com/AABL07/jogo-do-numero-secreto.git
 
 Acesse a pasta do projeto:
 
