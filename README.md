@@ -26,6 +26,7 @@ Ao acertar, o jogo exibe uma mensagem de sucesso e permite reiniciar.
 
 📸 Captura de Tela
 
+![image](https://github.com/user-attachments/assets/7cfa8920-eb29-4422-883f-4287016f4940)
 
 
 🔧 Como Executar o Projeto
